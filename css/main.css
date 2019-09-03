@@ -1,0 +1,16 @@
+body{
+    padding: 1% 12% 2% 12%;
+
+}
+
+#heding{
+    text-align: center;
+}
+
+form{
+    background-color: rgba(255, 255, 255, 0.384);
+    padding: 5%;
+    margin: auto 0px;
+    border-radius: 10px;
+    
+}
